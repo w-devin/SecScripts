@@ -71,3 +71,7 @@ SUMMARY
 -------
 [*] 11 total (11 new) contacts found.
 ```
+
+6. export
+
+recon-ng 是有结果导出模块的, 支持多种文件格式, 不妨体验一下, recon-ng生态还是不错的
