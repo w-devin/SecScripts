@@ -11,4 +11,4 @@
 ## Vulnerability Scanning
 
 ### xray
-  - [reverse scan](1_vulnerability_scanning/xray/reverse/reverse.md)
+  - [reverse vul scan](1_vulnerability_scanning/xray/reverse/reverse.md)
